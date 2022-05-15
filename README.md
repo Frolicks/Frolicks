@@ -1,4 +1,5 @@
-### Hi there 👋
+- 🔭 I’m currently learning ASP.NET and React to become a Full Stack Web Developer
+- 😄 Pronouns: He/Him/His
 
 <!--
 **Frolicks/Frolicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
